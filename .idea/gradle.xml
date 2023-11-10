@@ -5,7 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/SuperCoding_Prj01" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="gradleJvm" value="adopt-11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/SuperCoding_Prj01" />
